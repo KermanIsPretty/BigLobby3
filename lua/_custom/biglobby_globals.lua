@@ -60,7 +60,7 @@ if not _G.BigLobbyGlobals then
 
 	-- Semantic versioning
 	function BigLobbyGlobals:version()
-		return "3.26.1"
+		return "3.26.7"
 	end
 
 
