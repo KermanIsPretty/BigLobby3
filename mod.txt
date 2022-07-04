@@ -10,7 +10,7 @@
         {
             "identifier": "biglobby3",
             "host": {
-				"meta": "https://raw.githubusercontent.com/Crackdown-PD2/BigLobby3/master/updates/meta_biglobby3.json"
+				"meta": "https://raw.githubusercontent.com/KermanIsPretty/BigLobby3/master/updates/meta_biglobby3.json"
 			}
         }
     ]
