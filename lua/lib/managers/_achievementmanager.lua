@@ -16,7 +16,7 @@ function AchievmentManager:disable_achievements()
 	--local isRegularAmount = m_session and (m_session:amount_of_players() <= 4)
 	--local isRegularSize   = m_session and BigLobbyGlobals:is_small_lobby()
 
-	return true -- check to see if in session (could just remove override but this is easier)
+	return false -- check to see if in session (could just remove override but this is easier)
 end
 
 
