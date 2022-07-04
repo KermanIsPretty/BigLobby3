@@ -1,7 +1,7 @@
 {
 	"name": "Biglobby3",
 	"description": "Increase the player limit of a lobby from the original 4.",
-	"author": "Polarathene, test1, Znix, Restoration Mod team",
+	"author": "Polarathene, test1, Znix, Restoration Mod team, (Modfied for Kerman)",
 	"contact": "no@support.com",
 	"version": "3.26.6",
 	"blt_version": 2,
